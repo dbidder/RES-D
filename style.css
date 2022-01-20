@@ -17,7 +17,7 @@ h2 {
 }
 main { 
     display: grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 30% 70%;
     margin-top: 3em;
 }
 header {
@@ -42,7 +42,9 @@ hr {
     background-color: lightgray;
     height: 1px;
 }
-
+ul {
+    padding-left: 20px;
+  }
 h1, h2 {
     font-weight: 100;
     margin-bottom: 0;
